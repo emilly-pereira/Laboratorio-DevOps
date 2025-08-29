@@ -40,5 +40,5 @@ Uma vez rodei um `terraform destroy`... e descobri o verdadeiro significado de "
 
 *"Falhar rápido, aprender mais rápido e nunca esquecer o café!"* ☕
  
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.imagenspng.com.br%2F25333%2Fsem-categoria%2Fflork-135-png%2F&psig=AOvVaw24a7rxeXHXAyIYZRnbn-Wn&ust=1756595618638000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCOCm496SsY8DFQAAAAAdAAAAABAE" alt="flork" width="400"/>
+<img src="https://www.imagenspng.com.br/wp-content/uploads/2022/11/flork-135.png" alt="flork" width="400"/>
 
