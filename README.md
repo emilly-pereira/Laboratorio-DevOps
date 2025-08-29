@@ -1,4 +1,4 @@
-# 👨‍💻 Estagiário DevOps em Ação 🚀  
+# 👨‍💻 Estagiária DevOps em Ação 🚀  
 
 > "Se está funcionando, provavelmente eu mexi sem querer... e agora tenho medo de encostar de novo."  
 
@@ -7,7 +7,7 @@ Bem-vindo(a) ao meu cantinho DevOps! Aqui você vai encontrar pipelines que não
 ---
 
 ## 🛠 Sobre mim  
-- 🎓 **Cargo atual:** Estagiário DevOps  
+- 🎓 **Cargo atual:** Estagiária de Infraestrutura  
 - 🌱 **Missão:** Automatizar tudo... ou pelo menos tentar.  
 - 🐧 **Sistema favorito:** Qualquer um que aceite `sudo`.  
 - ☕ **Dependência crítica:** Café em produção 24/7.  
@@ -35,7 +35,7 @@ Uma vez rodei um `terraform destroy`... e descobri o verdadeiro significado de "
 ---
 
 ## 📫 Vamos conversar?  
-- LinkedIn: [seu-link-aqui](https://linkedin.com/in/seu-perfil)  
-- Email: seu.email@exemplo.com  
+- LinkedIn: (https://www.linkedin.com/in/emilly-silva-8a45b8262/)  
+- Email: emillysilvaduardo@gmail.com 
 
 *"Falhar rápido, aprender mais rápido e nunca esquecer o café!"* ☕
